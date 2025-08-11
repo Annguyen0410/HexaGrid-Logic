@@ -1,5 +1,8 @@
 # HexaGrid Logic MVP
 
+![Demo](app/images/DEMO.gif)
+
+
 A minimal working version of a hexagonal grid-based interaction screen for Android using Kotlin.
 
 ## Features
