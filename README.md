@@ -4,6 +4,7 @@
 
 
 A minimal working version of a hexagonal grid-based interaction screen for Android using Kotlin.
+This project was developed as part of an internship at **PixelBit Studio**, focusing on researching and building core gameplay systems on the native Android platform.
 
 ## Features
 
